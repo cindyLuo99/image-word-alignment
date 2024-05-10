@@ -12,5 +12,9 @@ Advancements in deep neural networks have led to significant progress in compute
 
 ### Results
 
-TBD
+Coming Soon!
+
+### Script Descriptions
+
+Coming Soon!
 
